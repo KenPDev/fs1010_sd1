@@ -1,4 +1,5 @@
 # fs1010_sd1
 
-$ Please use assig_1.html as the submission file. This .html file has a grey screen when an image is hovered over.
-The file assig_1-Test.htm was an attempt to get diagonal gradients on hover, which I couldn't make happen.
+$ The file assig_1.html was my first attempt.
+$ The file assig_1_version_2.html is trying to make the diagonals to work .
+$ If you can give my feedback on why I can't tie it all together that would be great.
